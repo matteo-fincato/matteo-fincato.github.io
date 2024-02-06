@@ -7,8 +7,7 @@ authors:
 - D. Pleiter
 date: '2014-01-01'
 publishDate: '2024-02-06T14:18:34.934345Z'
-publication_types:
-- paper-conference
+publication_types: ['paper-conference']
 publication: '*Proceedings of the First Workshop on Accelerator Programming Using
   Directives*'
 doi: 10.1109/WACCPD.2014.11
