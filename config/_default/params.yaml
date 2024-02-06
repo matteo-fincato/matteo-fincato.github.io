@@ -20,21 +20,21 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: m.schlottke-lakemper@acom.rwth-aachen.de
-phone: +49 (241) 80-98683
+email: matteo.fincato@unimore.it
+phone: +39 3311204310
 address:
-  street: Schinkelstraße 2
-  city: Aachen
+  street: Via P. Vivarelli
+  city: Modena
 #  region: CA
-  postcode: '52062'
-  country: Germany
-  country_code: DE
+  postcode: '41125'
+  country: Italy
+  country_code: IT
 #coordinates:
 #  latitude: '37.4275'
 #  longitude: '-122.1697'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-  - 'I do not have regular office hours. Please make an appointment via email.'
+directions: Tecnopolo Building (MO 52)
+# office_hours:
+#   - 'I do not have regular office hours. Please make an appointment via email.'
 # appointment_url: 'https://calendly.com'
 contact_links:
 #  - icon: twitter

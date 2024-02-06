@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: "Matteo Fincato" # Website name
-baseurl: 'https://lakemper.eu/' # Website URL
-copyright: "&copy; {year} Michael Schlottke-Lakemper" # Footer text, e.g. '© {year} Me'
+baseurl: 'https://matteo-fincato.github.io/' # Website URL
+copyright: "&copy; {year} Matteo Fincato" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

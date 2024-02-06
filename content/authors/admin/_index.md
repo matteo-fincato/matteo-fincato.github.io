@@ -1,19 +1,20 @@
 ---
-role: Interim Professor
+role: PhD Student
 avatar_filename: avatar.png
 bio: ""
 interests:
-  - Adaptive multi-physics simulations
-  - Scientific machine learning
-  - Research software engineering for high-performance computing with Julia
-  - Applications in fluid mechanics, aeroacoustics, and astrophysics
+  - Computer Vision
+  - Machine Learning
+  - Deep Learning
+  - Virtual Try-On
+  - Human Pose Estimation
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:m.schlottke-lakemper@acom.rwth-aachen.de
+    link: mailto:matteo-fincato@unimore.it
   - icon: google-scholar
     icon_pack: ai
-    link: https://scholar.google.com/citations?user=k3vPAhsAAAAJ
+    link: https://scholar.google.com/citations?user=AVt8MS8AAAAJ
   - display:
       header: false
     link: https://orcid.org/0000-0002-3195-2536
@@ -21,41 +22,34 @@ social:
     icon: orcid
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/michaelschlottkelakemper
+    link: https://www.linkedin.com/in/matteo-fincato
   - icon: github
     icon_pack: fab
-    link: https://github.com/sloede
+    link: https://github.com/matteo-fincato
   - icon: researchgate
     icon_pack: fab
-    link: https://www.researchgate.net/profile/Michael_Schlottke-Lakemper
+    link: https://www.researchgate.net/profile/Matteo-Fincato-2
 organizations:
-  - name: RWTH Aachen University, Germany
-    url: https://www.acom.rwth-aachen.de/5people/schlottke-lakemper/start
+  - name: AImageLab @ University of Modena and Reggio Emilia
+    url: https://aimagelab.ing.unimore.it/imagelab/
 education:
   courses:
-    - course: Dr.-Ing. in Computational Engineering Science
-      institution: RWTH Aachen University, Germany
+    - course: PhD in Artificial Intelligence
+      institution: University of Modena and Reggio Emilia, Italy
+      year: 20225
+    - course: MSc in Artificial Intelligence
+      institution: University of Modena and Reggio Emilia, Italy
+      year: 2020
+    - course: BSc in Computer Engineering
+      institution: University of Modena and Reggio Emilia, Italy
       year: 2017
-    - course: Dipl.-Ing. in Aerospace Engineering
-      institution: University of Stuttgart, Germany
-      year: 2011
-    - course: " MS in Aerospace Engineering"
-      institution: Georgia Institute of Technology, US
-      year: 2010
 superuser: true
 highlight_name: true
-title: Michael Schlottke-Lakemper
-email: michael@sloede.com
+title: Matteo Fincato
+email: matteo.fincato@unimore.it
 ---
-I am an interim professor (Vertretungsprofessor) for Computational Mathematics and
-research software engineer at the
-[Applied and Computational Mathematics Research Lab](https://www.acom.rwth-aachen.de)
-at
-[RWTH Aachen University, Germany](https://www.rwth-aachen.de).
-For this position, I am currently on leave from heading the
-[Training & Scalable Algorithms group](https://www.hlrs.de/about/tasc)
-at the
-[High-Performance Computing Center Stuttgart (HLRS)](https://www.hlrs.de).
-My research focus is on numerical methods for adaptive multi-physics
-simulations, research software engineering for high-performance computing, and
-scientific machine learning.
+I am Matteo Fincato, a dedicated Ph.D. student affiliated with the esteemed [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) research group at the University of Modena and Reggio Emilia, mentored by [Prof. Roberto Vezzani](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=8). My academic journey delves into the captivating realms of Computer Vision and Deep Learning.
+
+My research focuses on two primary areas. Firstly, I explore the intricacies of **Human Pose Estimation**, dedicating efforts to developing methods for precise 2D/3D Single/Multi-Person pose estimation using single-camera inputs. My goal is to contribute novel solutions enhancing the accuracy of human pose analysis. Simultaneously, my work extends into **Virtual Try-On**, reflecting my interest in the intersection of technology and fashion. I craft innovative approaches for virtual clothing trials, exploring seamless integration of computer vision and deep learning techniques in the fashion industry.
+
+Guided by Prof. Roberto Vezzani, my commitment to pushing the boundaries of knowledge in Computer Vision and Deep Learning remains steadfast. I am enthusiastic about contributing meaningful advancements to these fields and leveraging technology to address real-world challenges.
