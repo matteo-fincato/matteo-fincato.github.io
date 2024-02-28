@@ -36,7 +36,7 @@ education:
   courses:
     - course: PhD in Artificial Intelligence
       institution: University of Modena and Reggio Emilia, Italy
-      year: 20225
+      year: 2025
     - course: MSc in Artificial Intelligence
       institution: University of Modena and Reggio Emilia, Italy
       year: 2020
