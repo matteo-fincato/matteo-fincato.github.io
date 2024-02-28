@@ -27,7 +27,7 @@ experience:
     company_url: 'https://aimagelab.ing.unimore.it/'
     company_logo: ai
     location: Modena
-    date_start: '2021-11-01'
+    date_start: '2021-01-11'
     date_end: ''
     description:
         
@@ -36,8 +36,8 @@ experience:
     company_url: 'https://aimagelab.ing.unimore.it/'
     company_logo: ai
     location: Modena
-    date_start: '2020-05-01'
-    date_end: '2021-11-31'
+    date_start: '2020-01-05'
+    date_end: '2021-01-11'
     description:
 
 design:
