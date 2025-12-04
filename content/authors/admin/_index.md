@@ -48,5 +48,3 @@ highlight_name: true
 title: Matteo Fincato
 email: matteo.fincato@unimore.it
 ---
-
-I am Matteo Fincato, holding a Ph.D. in Computer Engineering from the University of Modena and Reggio Emilia, where I conducted my research within the AImageLab under the supervision of Prof. Roberto Vezzani. My core expertise is rooted in the application and advancement of Computer Vision and Deep Learning methodologies.
