@@ -7,7 +7,13 @@ weight: 100
 title: News
 # subtitle: Courses and supervised students
 ---
-- **[Oct. 2023]** Attended the Internation Conference on Computer Vision (ICCV) 2023, Paris, 
+- **[Apr. 2025]** Joined EVS as Computer Vision Research Scientist, Verona, IT
+- 
+- **[Apr. 2025]** Completed International Doctorate in ICT at the AImageLab research group at UNIMORE, Modena, IT
+
+- **[Oct. 2024]** Attended the European Conference on Computer Vision (ECCV) 2024, Milan IT
+ 
+- **[Oct. 2023]** Attended the Internation Conference on Computer Vision (ICCV) 2023, Paris, FR
 
 - **[Sep. 2023]** Attended the ELLIS Summer School on Large-Scale AI in Modena, Modena, IT
 
