@@ -48,8 +48,21 @@ highlight_name: true
 title: Matteo Fincato
 email: matteo.fincato@unimore.it
 ---
-I am Matteo Fincato, a Ph.D. in Information and Comunication Technologies at [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) research group at the University of Modena and Reggio Emilia, mentored by [Prof. Roberto Vezzani](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=8). My academic journey delves into the captivating realms of Computer Vision and Deep Learning.
+# Professional Profile
 
-My research focuses on two primary areas. Firstly, I explore the intricacies of **Human Pose Estimation**, dedicating efforts to developing methods for precise 2D/3D Single/Multi-Person pose estimation using single-camera inputs. My goal is to contribute novel solutions enhancing the accuracy of human pose analysis. Simultaneously, my work extends into **Virtual Try-On**, reflecting my interest in the intersection of technology and fashion. I craft innovative approaches for virtual clothing trials, exploring seamless integration of computer vision and deep learning techniques in the fashion industry.
+I am Matteo Fincato, holding a Ph.D. in Computer Engineering from the University of Modena and Reggio Emilia, where I conducted my research within the AImageLab under the supervision of Prof. Roberto Vezzani. My core expertise is rooted in the application and advancement of **Computer Vision** and **Deep Learning** methodologies.
 
-Guided by Prof. Roberto Vezzani, my commitment to pushing the boundaries of knowledge in Computer Vision and Deep Learning remains steadfast. I am enthusiastic about contributing meaningful advancements to these fields and leveraging technology to address real-world challenges.
+## Doctoral Research and Contributions
+
+My doctoral research was primarily focused on developing robust and accurate solutions for **3D/2D Human Pose Estimation (HPE)**, applicable to both single and multi-person scenarios within **complex industrial environments**. This work aimed to significantly enhance the reliability and precision of human pose analysis in real-world settings.
+
+## Post-Doctoral and Industry Expertise
+
+Following the Ph.D., my professional activity has been concentrated on high-impact Computer Vision applications:
+
+* **Automotive (In-Vehicle Monitoring):** I have specialized in the study and implementation of techniques for **Human Shape Estimation** dedicated to the analysis and precise monitoring of passengers inside vehicle cabins.
+* **Healthcare (In-Bed Patient Monitoring):** I have developed **3D Pose Estimation** methodologies for non-invasive, continuous monitoring of patients in bed within clinical and assisted living facilities.
+
+## Previous Experience
+
+Prior to my doctoral studies, I was involved in research fellowship activities focused on **Virtual Try-On** systems, integrating Computer Vision and Deep Learning techniques to deliver innovative solutions for the fashion industry.
