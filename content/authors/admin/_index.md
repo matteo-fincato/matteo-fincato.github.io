@@ -48,6 +48,7 @@ highlight_name: true
 title: Matteo Fincato
 email: matteo.fincato@unimore.it
 ---
+
 I am Matteo Fincato, a Ph.D. in Information and Comunication Technologies at [AImageLab](https://aimagelab.ing.unimore.it/imagelab/) research group at the University of Modena and Reggio Emilia, mentored by [Prof. Roberto Vezzani](https://aimagelab.ing.unimore.it/imagelab/person.asp?idpersona=8). My academic journey delves into the captivating realms of Computer Vision and Deep Learning.
 
 My research focuses on two primary areas. Firstly, I explore the intricacies of **Human Pose Estimation**, dedicating efforts to developing methods for precise 2D/3D Single/Multi-Person pose estimation using single-camera inputs. My goal is to contribute novel solutions enhancing the accuracy of human pose analysis. Simultaneously, my work extends into **Virtual Try-On**, reflecting my interest in the intersection of technology and fashion. I craft innovative approaches for virtual clothing trials, exploring seamless integration of computer vision and deep learning techniques in the fashion industry.
